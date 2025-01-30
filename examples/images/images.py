@@ -8,7 +8,7 @@ import requests
 from io import BytesIO
 
 # Set your OpenAI API key
-api_key = "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"
+api_key = "<your-api-key>"
 
 client = OpenAI(api_key=api_key)
 
